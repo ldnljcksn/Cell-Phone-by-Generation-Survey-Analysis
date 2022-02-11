@@ -2,7 +2,7 @@
 ## Purpose
 The purpose of this experiment was three-fold:
 1. To determine if you can define a person's generation based on the age they got their first cell phone and whether or not it was a smartphone.
-2. To define the existence and range of the cusp generation "Zillennials" between Millennials and Gen Z based on the above criteria.
+2. To define the existence and range of the cusp microgeneration "Zillennials" between Millennials and Gen Z based on the above criteria.
 3. To study other relationships between a person's first cell phone and the generation they identify with.
 
 ## Survey
