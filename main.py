@@ -12,8 +12,9 @@ responses_by_year = {1990: 0, 1991: 0, 1992: 0, 1993: 0, 1994: 0, 1995: 0, 1996:
 for i, each_response in data.iterrows():
     if each_response.birth_year in members_by_year:
         responses_by_year[each_response.birth_year] += 1
-        if int(each_response.first_cell_year) - int(each_response.birth_year) < 13 and each_response.was_smartphone == 'No':
-            members_by_year[each_response.birth_year] += 1
+        if int(each_response.first_cell_year) - int(each_response.birth_year) < 13:
+            if each_response.was_smartphone == 'No':
+                members_by_year[each_response.birth_year] += 1
 
 print(members_by_year)
 
