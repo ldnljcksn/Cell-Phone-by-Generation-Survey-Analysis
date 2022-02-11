@@ -67,5 +67,5 @@ plt.bar(millennials_by_year.keys(), millennial_percents, color='blue', label='Mi
 # plt.bar(weirdos_by_year.keys(), weirdo_percents, bottom=millennial_percents+zillennial_percents+zoomer_percents,
 #         color='black', label='Weirdos')
 plt.legend(loc='best')
-plt.title('Generation percents by year (n=509)')
+plt.title('Calculated generation percents by birth year')
 plt.show()
