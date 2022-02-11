@@ -14,8 +14,11 @@ I posted a survey to several online communities and received 509 responses. Ther
 
 ## Analysis
 After a first round of analysis, I used the following criteria to define the two main generations (Millennials and Gen Z) and the third microgeneration (Zillennials):
+
 **Millennials** got their first cell phone when they were 13 or later and it was not a smartphone.
+
 **Zillennials** got their first cell phone before they were 13 and it was not a smartphone.
+
 **Zoomers** got their first cell phone before they were 13 and it was a smartphone.
 
 ![](https://github.com/ldnljcksn/Cell-Phone-by-Generation-Survey-Analysis/blob/main/Calculated%20Generation%20Percents%20by%20Year.png)
