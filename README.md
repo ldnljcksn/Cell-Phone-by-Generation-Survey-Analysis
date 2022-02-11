@@ -21,6 +21,8 @@ After a first round of analysis, I used the following criteria to define the two
 
 **Zoomers** got their first cell phone before they were 13 and it was a smartphone.
 
+*Note that any respondents who did not fall under these three sets of criteria were not categorized into a generation, thus why the percents do not sum to 100%.*
+
 ![](https://github.com/ldnljcksn/Cell-Phone-by-Generation-Survey-Analysis/blob/main/Calculated%20Generation%20Percents%20by%20Year.png)
 
 You can see that the Millennial generation dominates from 1990 (and before, but the beginning of this generation is not being analyzed here) to 1995. The Zillennial microgeneration dominates from 1996 to 2001, with 2002 being unclear. Generation Z dominates from 2003 to 2008 (and beyond, but the end of this generation is not being analyzed here).
